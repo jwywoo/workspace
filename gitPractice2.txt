@@ -2,3 +2,6 @@ Intentional Conflicts
 
 From CloneSpace -> Hello, WorkSpace!!
 from WorkSpace -> Hello, CloneSpace
+
+FastForward Check
+From Workspace -> Fastforward?
