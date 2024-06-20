@@ -1,4 +1,4 @@
 Intentional Conflicts
 
-From CloneSpace -> Hellow, WorkSpace!!
-from WorkSpace -> Hellow CloneSpace
+From CloneSpace -> Hello, WorkSpace!!
+from WorkSpace -> Hello, CloneSpace
