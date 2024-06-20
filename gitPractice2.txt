@@ -3,5 +3,6 @@ Intentional Conflicts
 From CloneSpace -> Hello, WorkSpace!!
 from WorkSpace -> Hello, CloneSpace
 
-
-from cloneSpace -> Fast-forward work?
+FastForward Check
+From Workspace -> Fastforward?
+From cloneSpace -> Fastforward?
